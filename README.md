@@ -1,3 +1,6 @@
+#《Machine learning: a probabilistic perspective》 这本书的Python配套代码，前deep learning时代machine learning领域内的三大bible级书籍之一
+
+
 # pyprobml
 Python 3 code for the second edition of my book [Machine learning: a probabilistic perspective](http://people.cs.ubc.ca/~murphyk/MLbook/). This is work in progress, so expect rough edges.
 
